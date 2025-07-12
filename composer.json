@@ -1,0 +1,11 @@
+{
+  "name": "policyflow/base-theme",
+  "description": "Base theme for PolicyFlow Drupal themes",
+  "type": "drupal-theme",
+  "license": "Apache-2.0",
+  "autoload": {
+    "psr-4": {
+      "Drupal\\base_theme\\": "src/"
+    }
+  }
+}
